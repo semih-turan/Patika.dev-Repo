@@ -1,4 +1,4 @@
-## Veri Yapıları ve Algoritmalar - Bölüm Sonu Projeleri
+## Veri Yapıları ve Algoritmalar - Bölüm Sonu Projeleri | [Patika.dev](www.patika.dev)
 
 ### Proje 1
 [22,27,16,2,18,6] -> Insertion Sort
