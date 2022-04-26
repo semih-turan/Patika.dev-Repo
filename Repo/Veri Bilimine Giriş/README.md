@@ -1,6 +1,6 @@
-##Veri Bilimine Giriş - Bölüm Sonu Projesi | [Patika.dev](www.patika.dev)
+## Veri Bilimine Giriş - Bölüm Sonu Projesi | [Patika.dev](www.patika.dev)
 
-###Bu proje ile "Veri Bilimine Giriş" derslerinden öğrendiklerimi özetleyeceğim. 
+### Bu proje ile "Veri Bilimine Giriş" derslerinden öğrendiklerimi özetleyeceğim. 
 
 Normal programlama yöntemlerinin çözüm bulamadağı durumlarda bilgisayarlar ile iletişime geçmenin yeni adı makine öğrenmesidir. Makine öğrenmesinde girdi olarak resim, ses, video gibi karmaşık verileri kullabiliriz. Önemli olan girdilerin karmaşıklığı değil, makinenin bu girdiler ile bir çıktıyı tahmin etmesini yani öğrenmesini sağlayabilmektir. Sıradan programlama yöntemleri ile bir görüntünün insana ait olup olmadığını programın tahmin etmesi mümkün değilken, makine öğrenmesi ile bunu başarabiliriz.
 
