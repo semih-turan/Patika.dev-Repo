@@ -1,0 +1,115 @@
+
+/* import Roboto Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* general start */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #6895D2 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 5%;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.index-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    list-style: none;
+    text-transform: uppercase;
+    border: 5px solid #F3B95F;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #FDE767;
+}
+
+header h1{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #D04848;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+header a {
+    text-decoration: none;
+    color: #D04848;
+    font-weight: bold;
+}
+
+section h2 {
+    text-align: center;
+    color: #D04848;
+    padding: 20px;
+
+}
+
+
+p{
+    color: #F3B95F;
+}
+
+p a {
+    color: #F3B95F;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #FDE767;
+    text-decoration: none;
+}
+
+main section {
+    text-align: center;
+    list-style-position: inside;
+}
+
+main section h1 {
+    text-align: center;
+    color: #D04848;
+}
+
+main section h2 {
+    text-align: center;
+    color: #D04848;
+}
+
+main section h3 {
+color: #D04848;
+}
+
+main ul {
+    list-style: none;
+    font-weight: 500;
+}
+
+.index-nav-container{
+    text-align: center;
+}
+
+.about-content-container > *{
+  text-align: start;
+}
